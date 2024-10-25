@@ -9,29 +9,22 @@ class ThreadSafeStack
 public:
     int top()
     {
-        std::lock_guard<std::mutex> lock(this->stackMutex);
+        std::lock_guard<std::recursive_mutex>lock(this->stackMutex);
         return s.top();
     }
     void pop()
     {
-        std::lock_guard<std::mutex> lock(this->stackMutex);
+        std::lock_guard<std::recursive_mutex>lock(this->stackMutex);
         s.pop();
     }
     bool isEmpty()
     {
-        std::lock_guard<std::mutex> lock(this->stackMutex);
+        std::lock_guard<std::recursive_mutex>lock(this->stackMutex);
         return s.empty();
     }
     void executeAtomicOperation(void (*callback)(ThreadSafeStack& stack))
     {
-        /**
-            NOTE DIFF LOCK USED ,
-            because if the stackMutex is used it will cause a deadlock state
-            since the stackMutex will be locked and operations within call back will tru to access it to => UNDEFINED BEHAVIOUR
-        */
-        // std::lock_guard<std::mutex> lock(this->stackMutex); //DEADLOCK!!!!! => UNDEFINED BEHAVIOUR
-
-        std::lock_guard<std::mutex> lock(this->chunckMutex);
+        std::lock_guard<std::recursive_mutex>lock(this->stackMutex);
         if(callback)
         {
             callback(*this);
@@ -39,13 +32,12 @@ public:
     }
     void push(int val)
     {
-        std::lock_guard<std::mutex>lock(this->stackMutex);
+        std::lock_guard<std::recursive_mutex>lock(this->stackMutex);
         s.push(val);
     }
 private:
     std::stack<int> s;
-    std::mutex stackMutex ;
-    std::mutex chunckMutex;
+    std::recursive_mutex stackMutex ;
 };
 int main()
 {

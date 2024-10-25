@@ -1,6 +1,6 @@
-function compile_run()
+function run()
 {
     local file=$1
-    g++ -std=c++11 mini_pocs/$file.cpp -o mini_pocs/$file.exe
-    ./mini_pocs/$file.exe
+    g++ -std=c++17 $file.cpp -o $file.exe
+    ./$file.exe
 }

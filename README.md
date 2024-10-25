@@ -8,7 +8,8 @@ a simple POCs for different aspects of concurrency management
 - RAII.cpp : demonstarte a wrapper around threads to automatically handle joining for threads in desctructor
 - ThreadSafeStack.cpp : a wrapper around stack to provide a thread safe interface
 - ThreadSafeStack2.cpp : another way to change stack interface to be thread safe
+- DNSCache.cpp : demonstrates reader-writer problem , solving it using shared mutex
 
 # How to run
 - `source env.bash`
-- run the following script `compile_run filename.cpp`
+- run the following script `run filename.cpp`

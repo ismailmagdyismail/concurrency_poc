@@ -13,7 +13,7 @@ public:
         if(s.empty()){
             return std::make_shared<int>(nullptr);
         }
-        std::shared_ptr<int> top = std::make_shared<int>(s.top());
+        std::shared_ptr<int> top = std::make_shared<int>(s.top()); // NOTE: even if this throws std::bad_alloc the top value is still within stack , not lost
         s.pop();
         return top;
     }

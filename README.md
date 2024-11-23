@@ -10,7 +10,7 @@ a simple POCs for different aspects of concurrency management
 - ThreadSafeStack2.cpp : another way to change stack interface to be thread safe
 - DNSCache.cpp : demonstrates reader-writer problem , solving it using shared mutex
 - hierarchalMutex.cpp : demonstrates heirarchal mutex strategy to always enforce in-order locking at run-time to AVOID DEADLOCKS
-
+- parallelAccumlate.cpp : SIMD solution to summing up vector
 # How to run
 - `source env.bash`
 - run the following script `run filename.cpp`

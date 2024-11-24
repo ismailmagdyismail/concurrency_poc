@@ -11,6 +11,7 @@ a simple POCs for different aspects of concurrency management
 - DNSCache.cpp : demonstrates reader-writer problem , solving it using shared mutex
 - hierarchalMutex.cpp : demonstrates heirarchal mutex strategy to always enforce in-order locking at run-time to AVOID DEADLOCKS
 - parallelAccumlate.cpp : SIMD solution to summing up vector
+- Router : simulate n threads of devices reading and writing from Router , and BUSY waiting to handle limited connections
 # How to run
 - `source env.bash`
 - run the following script `run filename.cpp`

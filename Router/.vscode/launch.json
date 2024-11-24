@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "Router attatch",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "${workspaceFolder}/build/router",
+      "MIMode": "lldb"
+    },
+    {
+      "name": "Router Launch",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/router",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb"
+    }
+  ]
+}

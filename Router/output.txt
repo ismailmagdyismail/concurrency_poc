@@ -1,0 +1,467 @@
+Device 1 : doing work
+Device 2 : doing work
+Router message 2 to Device 1
+Router message 2 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 3 to Device 1
+Device 1 : doing work
+Router message 3 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 4 to Device 1
+Router message 4 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 5 to Device 1
+Router message 5 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 6 to Device 1
+Router message 6 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 7 to Device 1
+Router message 7 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 8 to Device 1
+Router message 8 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 9 to Device 1
+Router message 9 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 10 to Device 1
+Router message 10 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 11 to Device 1
+Device 2 : doing work
+Router message 11 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 12 to Device 1
+Router message 12 to Device 2
+Router message 13 to Device 1
+Router message 13 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Device 1 : doing work
+Router message 14 to Device 1
+Router message 14 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 15 to Device 1
+Device 2 : doing work
+Router message 15 to Device 2
+Device 1 : doing work
+Router message 16 to Device 1
+Device 2 : doing work
+Router message 16 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 17 to Device 1
+Router message 17 to Device 2
+Device 2 : doing work
+Router message 18 to Device 1
+Device 1 : doing work
+Router message 18 to Device 2
+Router message 19 to Device 1
+Router message 19 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 20 to Device 1
+Router message 20 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 21 to Device 1
+Router message 21 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 22 to Device 1
+Router message 22 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Device 1 : doing work
+Router message 23 to Device 1
+Router message 23 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 24 to Device 1
+Router message 24 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 25 to Device 1
+Router message 25 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 26 to Device 1
+Router message 26 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 27 to Device 1
+Router message 27 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 28 to Device 1
+Router message 28 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 29 to Device 1
+Router message 29 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 30 to Device 1
+Router message 30 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 31 to Device 1
+Router message 31 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 32 to Device 1
+Router message 32 to Device 2
+Device 2 : doing work
+Router message 33 to Device 1
+Router message 33 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 34 to Device 1
+Router message 34 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 35 to Device 1
+Router message 35 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 36 to Device 1
+Router message 36 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Device 1 : doing work
+Router message 37 to Device 1
+Router message 37 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 38 to Device 1
+Router message 38 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 39 to Device 1
+Router message 39 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 40 to Device 1
+Router message 40 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 41 to Device 1
+Router message 41 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 42 to Device 1
+Router message 42 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 43 to Device 1
+Router message 43 to Device 2
+Device 2 : doing work
+Router message 44 to Device 1
+Router message 44 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 45 to Device 1
+Router message 45 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 46 to Device 1
+Router message 46 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 47 to Device 1
+Router message 47 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Device 1 : doing work
+Router message 48 to Device 1
+Router message 48 to Device 2
+Device 2 : doing work
+Router message 49 to Device 1
+Router message 49 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Device 1 : doing work
+Device 2 : doing work
+Router message 50 to Device 1
+Router message 50 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 51 to Device 1
+Router message 51 to Device 2
+Device 1 : doing work
+Device 2 : doing work
+Router message 52 to Device 1
+Router message 52 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 53 to Device 1
+Router message 53 to Device 2
+Device 2 : doing work
+Device 1 : doing work
+Router message 54 to Device 1
+Router message 54 to Device 2
+
+connection removed 2
+Router message 61 to Device 1
+Router message 61 to Device 3
+Device 3 : doing work
+Device 1 : doing work
+Device 3 : doing work
+Router message 62 to Device 1
+Router message 62 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 63 to Device 1
+Router message 63 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 64 to Device 1
+Router message 64 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 65 to Device 1
+Router message 65 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 66 to Device 1
+Router message 66 to Device 3
+Device 1 : doing work
+Router message 67 to Device 1
+Router message 67 to Device 3
+Device 3 : doing work
+Device 1 : doing work
+Device 3 : doing work
+Router message 68 to Device 1
+Router message 68 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 69 to Device 1
+Router message 69 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 70 to Device 1
+Router message 70 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 71 to Device 1
+Router message 71 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 72 to Device 1
+Router message 72 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 73 to Device 1
+Router message 73 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 74 to Device 1
+Router message 74 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 75 to Device 1
+Router message 75 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 76 to Device 1
+Router message 76 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 77 to Device 1
+Router message 77 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 78 to Device 1
+Router message 78 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 79 to Device 1
+Router message 79 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 80 to Device 1
+Router message 80 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 81 to Device 1
+Router message 81 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 82 to Device 1
+Router message 82 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 83 to Device 1
+Router message 83 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 84 to Device 1
+Router message 84 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 85 to Device 1
+Router message 85 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 86 to Device 1
+Router message 86 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 87 to Device 1
+Router message 87 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 88 to Device 1
+Router message 88 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 89 to Device 1
+Router message 89 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 90 to Device 1
+Router message 90 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 91 to Device 1
+Router message 91 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 92 to Device 1
+Router message 92 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 93 to Device 1
+Router message 93 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 94 to Device 1
+Router message 94 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 95 to Device 1
+Router message 95 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 96 to Device 1
+Router message 96 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 97 to Device 1
+Router message 97 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 98 to Device 1
+Router message 98 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 99 to Device 1
+Router message 99 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 100 to Device 1
+Router message 100 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 101 to Device 1
+Router message 101 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 102 to Device 1
+Router message 102 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 103 to Device 1
+Router message 103 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 104 to Device 1
+Router message 104 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 105 to Device 1
+Router message 105 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 106 to Device 1
+Router message 106 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 107 to Device 1
+Router message 107 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 108 to Device 1
+Router message 108 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 109 to Device 1
+Router message 109 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 110 to Device 1
+Router message 110 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 111 to Device 1
+Router message 111 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 112 to Device 1
+Router message 112 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 113 to Device 1
+Router message 113 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 114 to Device 1
+Router message 114 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 115 to Device 1
+Router message 115 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 116 to Device 1
+Router message 116 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 117 to Device 1
+Router message 117 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 118 to Device 1
+Router message 118 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 119 to Device 1
+Router message 119 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 120 to Device 1
+Router message 120 to Device 3
+Device 1 : doing work
+Device 3 : doing work
+Router message 121 to Device 1
+Router message 121 to Device 3
+Device 3 : doing work
+Device 1 : doing work
+Router message 122 to Device 1
+Router message 122 to Device 3
+Device 3 : doing work
+Device 1 : doing work
+Router message 123 to Device 1
+Router message 123 to Device 3

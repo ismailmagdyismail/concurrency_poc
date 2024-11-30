@@ -30,6 +30,7 @@ void Router::disconnect(int id)
         Logger::log("connection Not found " + std::to_string(id));
         return;
     }
+    // WHY stop the device here ? breaks encapsulation => stop it in the device itself,  or use callbacks
     connections[id]->stop();
     connections.erase(id);
     Logger::log("connection removed " + std::to_string(id));
@@ -47,5 +48,9 @@ void Router::broadcastData()
 
 Router::~Router()
 {
+    for (auto &connection : connections)
+    {
+        connection.second->stop();
+    }
     stop();
 }

@@ -1,6 +1,24 @@
 attempting to connect 2
-Connected2
-attempting to connect 3
-Connected3
 attempting to connect 1
+attempting to connect 3
+Connected2
+Connected1
+Device 1reading message 0 Router Broadcast message 1
 Device 2reading message 0 Router Broadcast message 2
+Device 1reading message 1 Router Broadcast message 1
+Device 2reading message 1 Router Broadcast message 2
+Device 1reading message 2 Router Broadcast message 1
+Device 1reading message 3 Router Broadcast message 1
+Device 2reading message 2 Router Broadcast message 2
+Device 2reading message 3 Router Broadcast message 2
+Device 1reading message 4 Router Broadcast message 1
+Device 2 Stopped
+Connected3
+Device 3reading message 0 Router Broadcast message 3
+Device 1reading message 5 Router Broadcast message 1
+Device 3reading message 1 Router Broadcast message 3
+Device 1reading message 6 Router Broadcast message 1
+Device 3reading message 2 Router Broadcast message 3
+Device 1reading message 7 Router Broadcast message 1
+Device 3reading message 3 Router Broadcast message 3
+Device 1reading message 8 Router Broadcast message 1

@@ -49,5 +49,6 @@ void Device::acceptMessages()
 void Device::disconnect()
 {
   std::lock_guard<std::mutex> lock(m_runningMutex);
-  m_stopped = false;
+  Logger::log("Device " + std::to_string(m_id) + " Stopped");
+  m_stopped = true;
 }

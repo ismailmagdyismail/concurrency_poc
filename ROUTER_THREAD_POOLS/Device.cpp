@@ -31,14 +31,16 @@ void Device::acceptMessages()
     }
     m_connectedMutex.unlock();
     std::string readMessage = m_messageBus->readMessage(m_id);
-    m_runningMutex.unlock();
     if (readMessage.empty())
     {
       continue;
     }
+    m_runningMutex.unlock();
     Logger::log("Device " + std::to_string(m_id) + "reading message " + std::to_string(m_messageToRead) + " " + readMessage);
-    std::lock_guard<std::mutex> lock(m_messagesIdMutex);
+    m_messagesIdMutex.lock();
     m_messageToRead++;
+    m_messagesIdMutex.unlock();
+
     sleep(2);
     m_runningMutex.lock();
   }

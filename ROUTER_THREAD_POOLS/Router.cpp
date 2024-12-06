@@ -28,6 +28,10 @@ void Router::connect(Device *device)
 void Router::disconnect(int deviceId)
 {
     std::lock_guard<std::mutex> lock(m_connectionsMutex);
+    if (m_connectedDevices.find(deviceId) == m_connectedDevices.end())
+    {
+        return;
+    }
     m_connectedDevices[deviceId]->disconnect();
     m_connectedDevices.erase(deviceId);
     m_connectionsConditionVariable.notify_all();

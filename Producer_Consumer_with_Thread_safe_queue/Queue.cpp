@@ -4,8 +4,13 @@
 
 void Queue::push(int element)
 {
-    std::lock_guard<std::mutex>lock(queueMutex);
-    queue.push(element);
+
+    {
+        std::lock_guard<std::mutex>lock(queueMutex);
+        queue.push(element);
+        //! lock released before notifying ,
+        //!  to make sure that other waiting threads don't sleep one extra time as a result of the lock still being held
+    }
     queueCv.notify_one();
 }
 

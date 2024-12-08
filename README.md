@@ -13,6 +13,9 @@ a simple POCs for different aspects of concurrency management
 - parallelAccumlate.cpp : SIMD solution to summing up vector
 - Router_INH : simulate n threads of devices reading and writing from Router , and BUSY waiting to handle limited connections using inherteince and busy waiting
 - Router_Compoistion_Condition_vars : utilizes composition over inherteince , use condition variables to avoid busy waiting
+- Router_Thread_Pools : poc of thread pools
+- Procuder_consumer: poc of thread safe queue , with blocking & non-blocking operations and producer consumer problem
+
 
 # How to run
 - `source env.bash`

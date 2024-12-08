@@ -1,5 +1,2 @@
-*.exe
 build/
-Router/.vscode/
-.vscode/
-*.json
+.vscode
